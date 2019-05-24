@@ -1,0 +1,6 @@
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
