@@ -1,0 +1,10 @@
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinalTEST\obj\Debug\ProyectoFinalTEST.csprojResolveAssemblyReference.cache
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinalTEST\bin\Debug\ProyectoFinalTEST.dll.config
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinalTEST\bin\Debug\ProyectoFinalTEST.dll
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinalTEST\bin\Debug\ProyectoFinalTEST.pdb
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinalTEST\bin\Debug\nunit.framework.dll
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinalTEST\bin\Debug\ProyectoFinal.dll
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinalTEST\bin\Debug\ProyectoFinal.pdb
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinalTEST\bin\Debug\nunit.framework.xml
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinalTEST\obj\Debug\ProyectoFinalTEST.dll
+C:\Users\User10\Downloads\Proyectos\ProyectoFinal\ProyectoFinalTEST\obj\Debug\ProyectoFinalTEST.pdb

@@ -1,6 +1,6 @@
 using System;
 
-namespace dllISBN
+namespace ProyectoFinal
 {
     public class IBAN
     {
